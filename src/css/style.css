@@ -356,6 +356,10 @@ body {
   #hero .cs-background2 {
     width: 32.8125vw;
   }
+  .stereo-love {
+    width: 972px;
+    height: 729px;
+  }
 }
 
 #not-found {
@@ -1156,4 +1160,8 @@ body {
   .product-title {
     font-size: 1.5rem;
   }
+  .stereo-love {
+    width: 400px;
+    height: 200px;
+}
 }
