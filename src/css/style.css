@@ -1094,6 +1094,7 @@ body {
   transition: all 0.3s ease;
   text-transform: uppercase;
   letter-spacing: 0.5px;
+  text-decoration: none;
 }
 
 .add-to-cart-btn:hover {
@@ -1161,7 +1162,11 @@ body {
     font-size: 1.5rem;
   }
   .stereo-love {
-    width: 400px;
-    height: 200px;
+    width: 340px;
+    height: 170px;
+  }
 }
+
+.payment-methods img {
+  margin: 4px;
 }
