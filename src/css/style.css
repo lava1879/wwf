@@ -108,23 +108,7 @@ body {
   justify-content: space-between;
   padding: 1.25rem 1rem;
 }
-.logo {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.5rem;
-}
-.logo,
-.logo:link,
-.logo:visited {
-  text-decoration: none;
-  color: inherit;
-}
-.logo-text {
-  color: var(--bodyTextColorWhite);
-  font-weight: 900;
-  letter-spacing: 0.08em;
-  font-size: clamp(1.5rem, 4vw, 2.25rem);
-}
+
 .nav {
   display: inline-flex;
   align-items: center;
